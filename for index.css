@@ -1,0 +1,51 @@
+.navbar{
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: brown;
+    width: 150px;
+    min-height: 100%;
+ }
+
+ .nav-links{
+    font-size: 20px;
+ }
+
+ .a{
+    color:yellow;
+} 
+
+.b{
+    color:yellow;
+
+}
+
+.c{
+    color:yellow;
+
+
+}
+
+.d{
+    color:yellow;
+
+
+}
+
+.e{
+    color:yellow;
+
+
+}
+
+.f{
+
+    color: yellow;
+}
+
+.g{
+color: yellow;
+
+}
